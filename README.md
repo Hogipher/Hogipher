@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Hogipher/Hogipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Chris E. Hogue. I'm currently a 2nd Lieutenant in the US Army in charge of leading a signal Platoon in Fort Drum, NY. I commissioned out of the United States Military Academy with a Computer Science degree. I have experience speaking the parcel toungue (python), Scala, and C proggramming langueges. My hobbies include cooking (with a special interest in baking) and calisthenics.
 
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
